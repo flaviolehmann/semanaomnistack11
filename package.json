@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/flaviolehmann/semanaomnistack11/issues"
   },
-  "homepage": "https://github.com/flaviolehmann/semanaomnistack11#readme"
+  "homepage": "https://github.com/flaviolehmann/semanaomnistack11#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
